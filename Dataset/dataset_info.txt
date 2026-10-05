@@ -1,0 +1,22 @@
+Dataset Name: Diabetes Health Indicators Dataset
+File: diabetes_binary_5050split_health_indicators_BRFSS2015.csv
+
+Source (Kaggle):
+https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
+
+Original Data Source:
+CDC Behavioral Risk Factor Surveillance System (BRFSS) 2015
+https://www.cdc.gov/brfss/
+
+License: CC0: Public Domain
+
+Original Purpose:
+The dataset was derived from the BRFSS 2015 health survey to study the
+relationship between health/lifestyle indicators and diabetes, and to
+support building predictive models for diabetes risk.
+
+Description:
+- Records: 70,692
+- Predictor features: 21
+- Target: Diabetes_binary (0 = No Diabetes, 1 = Prediabetes or Diabetes)
+- Class balance: 50/50
