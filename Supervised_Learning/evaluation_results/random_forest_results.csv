@@ -1,0 +1,2 @@
+Model,Best Parameters,Best CV F1,Accuracy,Precision,Recall,F1-score,ROC-AUC
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': 10}",0.7619477372307131,0.7454387489139879,0.7278283485045514,0.7972934472934473,0.7609789259007478,0.8198023210648357
