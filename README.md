@@ -10,7 +10,7 @@
 | Lina Almarouti | 445201347 |
 | Nouf Alotaibi | 445202229 |
 | Deema Alhudaithi | 445200365 |
-| Danah Aldhalaan | 445201437 |
+| Dana Aldalaan | 445201437 |
 | Lamia Alromi | 445203040 |
 | Dalia Almawash | 445201330 |
 
