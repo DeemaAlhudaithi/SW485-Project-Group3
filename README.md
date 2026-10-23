@@ -45,22 +45,30 @@ file `diabetes_binary_5050split_health_indicators_BRFSS2015.csv`:
 Source: https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset
 
 ## Repository Structure
-
 ```
 SW485-Project-Group3/
 ├── README.md
-├── Phase1_Data_Exploration.ipynb
-├── Phase1_Supervised_Learning.ipynb
+├── Phase1_Data_Exploration.ipynb        # Part A: problem, EDA, preprocessing
+├── Phase1_Supervised_Learning.ipynb     # Part B: model comparison & final selection
 ├── Dataset/
-│   ├── raw dataset (.csv)
+│   ├── diabetes_binary_5050split_health_indicators_BRFSS2015.csv   # raw dataset
 │   ├── preprocessed_data.csv
+│   ├── train_data.csv / test_data.csv                 # shared train/test split
+│   ├── train_data_scaled.csv / test_data_scaled.csv   # scaled version (Logistic Regression)
 │   └── dataset_info.txt
+├── EDA_plots/                           # plots from the data exploration
 ├── Supervised_Learning/
+│   ├── Phase1_Logistic_Regression.ipynb
+│   ├── Phase1_Random_Forest.ipynb
+│   ├── Phase1_XGBoost.ipynb
 │   ├── models/
 │   ├── evaluation_results/
 │   └── plots/
 └── docs/
 ```
+
+## Use of AI Tools
+Claude (Anthropic) was used to help structure the model comparison notebook and organize its Markdown explanations. All models, preprocessing, tuning and evaluation results were produced by the team, and all outputs were reviewed and verified by the team members.
 
 
 ## Project Phases
