@@ -76,3 +76,6 @@ Claude (Anthropic) was used to help structure the model comparison notebook and 
 
 - **Phase 1:** Problem Understanding & Data Exploration, Supervised Learning
 - **Phase 2:** Unsupervised Learning, Generative AI, Interactive Executive Dashboard
+
+## References
+1. M. A. Salari and B. Rahmani, "Machine Learning for Everyone: Simplifying Healthcare Analytics with BigQuery ML," arXiv:2502.07026, 2025.
