@@ -66,6 +66,9 @@ SW485-Project-Group3/
 │   └── plots/
 └── docs/
 ```
+## Literature Check
+
+To check that our results are reasonable, we compared them with a published study that used the same dataset (Salari and Rahmani, 2025 [1]). Their boosted tree model also performed best, and HighBP and GenHlth were the strongest predictors, followed by Age, BMI and HighChol. Our results agree in direction: XGBoost is the best model, the three models perform within a close range, and the same features dominate. Absolute numbers are not directly comparable, since the paper does not report duplicate removal and the hyperparameters differ.
 
 ## Use of AI Tools
 Claude (Anthropic) was used to help structure the model comparison notebook and organize its Markdown explanations. All models, preprocessing, tuning and evaluation results were produced by the team, and all outputs were reviewed and verified by the team members.
