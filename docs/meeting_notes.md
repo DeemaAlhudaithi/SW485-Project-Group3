@@ -26,11 +26,11 @@
 |------|-------|
 | Repository structure, problem statement, dataset justification, final conclusion | Deema Alhudaithi |
 | EDA and results visualization | Lina Almarouti |
-| Preprocessing and data pipeline (`preprocessed_data.csv`, cross-validation setup) | Danah Aldhalaan |
+| Preprocessing and data pipeline (`preprocessed_data.csv`, cross-validation setup) | Dana Aldalaan |
 | Logistic Regression | Nouf Alotaibi |
 | Random Forest and feature importance | Dalia Almawash |
 | XGBoost | Lamia Alromi |
-| Comparative analysis and final model selection | Lina, Danah, Nouf, Dalia, Lamia |
+| Comparative analysis and final model selection | Lina, Dana, Nouf, Dalia, Lamia |
 ---
 
 ## Meeting 2 
