@@ -73,7 +73,7 @@ To check that our results are reasonable, we compared them with a published stud
 ## Use of AI Tools
 Claude (Anthropic) was used to help structure the model comparison notebook and organize its Markdown explanations. All models, preprocessing, tuning and evaluation results were produced by the team, and all outputs were reviewed and verified by the team members.
 
-**Preprocessing :** we used AI to review the cleaned data and the repository for consistency, and pointed out a possible minor leakage in the Logistic Regression cross-validation scores (the scaler was fitted on the full training set before the folds). Its effect is negligible, so we documented it as a limitation in the notebook instead of changing the pipeline.
+**Preprocessing :** we used AI to review the cleaned data and the repository for consistency, and pointed out a possible minor leakage in the Logistic Regression cross-validation scores (the scaler was fitted on the full training set before the folds). Its effect is negligible, so we documented it as a limitation in the notebook (Section 5.8 of `Phase1_Data_Exploration.ipynb`) instead of changing the pipeline.
 
 
 ## Project Phases
