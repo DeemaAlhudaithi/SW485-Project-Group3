@@ -63,7 +63,7 @@
 
 ---
 
-## Meeting 3 — [Date]
+## Meeting 3 
 
 - **Format:** [online]
 - **Attendees:** [all members]
