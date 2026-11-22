@@ -1,0 +1,20 @@
+{
+  "1": {
+    "segment": "Low risk",
+    "description": "Low-risk group (about 20% diabetic): younger patients with mostly normal blood pressure and cholesterol, good general health, physically active and with higher income.",
+    "size_pct": 35.8,
+    "diabetic_pct": 20.3
+  },
+  "0": {
+    "segment": "Moderate risk",
+    "description": "Moderate-risk group (about 63% diabetic): older patients with high blood pressure and high cholesterol who still report good physical and mental health and few mobility problems.",
+    "size_pct": 40.9,
+    "diabetic_pct": 63.4
+  },
+  "2": {
+    "segment": "High risk",
+    "description": "High-risk group (about 76% diabetic): patients with poor general health, many days of poor physical and mental health, difficulty walking, low physical activity, lower income and the highest rates of heart disease and stroke.",
+    "size_pct": 23.3,
+    "diabetic_pct": 75.8
+  }
+}
