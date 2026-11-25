@@ -1,0 +1,15 @@
+**1. Screening Summary**  
+- The supervised model indicates a **Routine follow‑up** recommendation.  
+- The model’s probability for a positive screening outcome is **24 %**.  
+
+**2. Key Contributing Indicators**  
+- PhysActivity  
+- GenHlth  
+- Age  
+
+**3. Risk Segment Context**  
+- The patient falls into a **low‑risk** segment.  
+- Cluster characteristics: younger age, predominantly normal blood pressure and cholesterol, good general health, regular physical activity, and higher income.  
+
+**4. Suggested Follow‑up Considerations**  
+- **Continue routine follow‑up** as advised by the screening result.

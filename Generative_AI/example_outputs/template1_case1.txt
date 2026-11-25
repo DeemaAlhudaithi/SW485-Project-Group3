@@ -1,0 +1,14 @@
+**1. Screening Summary**  
+- The model predicts that you should undergo *Further clinical assessment recommended* (probability 84 %).  
+
+**2. Key Contributing Indicators**  
+- **HighBP**  
+- **BMI**  
+- **GenHlth**  
+
+**3. Risk Segment Context**  
+You belong to the *High risk* cluster, which includes patients who often report poor general health, many days of poor physical and mental well‑being, difficulty walking, low physical activity, lower income, and higher rates of heart disease and stroke.  
+
+**4. Suggested Follow-up Considerations**  
+- *Further clinical assessment recommended*  
+- Please arrange for the appropriate healthcare professional to review your results and discuss next steps.
