@@ -1,5 +1,5 @@
 """
-pipeline.py — integration layer (Phase 2, Part D).
+pipeline.py — integration layer (Phase 2, Part C).
 
 One function, predict_patient(), connects:
   1. Supervised model (XGBoost)            -> risk probability
@@ -108,9 +108,9 @@ def _get_api_key():
 
 
 def _top_features(n: int = 3) -> str:
-    """Global top-n features of the model (same style as the GenAI test cases)."""
-    fi = pd.read_csv(_ROOT / "Supervised_Learning" / "evaluation_results" / "feature_importance.csv")
-    return ", ".join(fi.sort_values("Importance", ascending=False)["Feature"].head(n))
+    """Global top-n features of the XGBoost model used for predictions."""
+    fi = pd.Series(_MODEL.feature_importances_, index=FEATURE_NAMES)
+    return ", ".join(fi.sort_values(ascending=False).head(n).index)
 
 
 def get_genai_text(risk_probability: float, cluster_name: str, cluster_description: str,
