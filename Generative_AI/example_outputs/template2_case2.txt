@@ -1,0 +1,13 @@
+1. Executive Summary  
+The screening indicates that further clinical assessment is recommended. The probability that the patient has a positive result is 61%.
+
+2. Expected Risk Level  
+The patient falls into a moderate risk segment that includes 40.9% of all patients. Within this segment, 63.4% of patients have diabetes; this figure reflects the group, not the individual patient.
+
+3. Key Drivers  
+The main factors driving the recommendation are high blood pressure, high cholesterol, and the patient’s older age. The cluster profile shows older adults who report good physical and mental health and few mobility problems.
+
+4. Suggested Next Steps  
+- Follow up with a healthcare professional to discuss the screening outcome.  
+- Review the patient’s blood pressure and cholesterol management plan.  
+- Consider routine monitoring of blood glucose and other relevant health markers.

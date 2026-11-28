@@ -1,13 +1,11 @@
-**1. Screening Summary**  
-The model estimates a 61 % probability that the patient falls into the positive screening category, leading to a recommendation for further clinical assessment.
+1. Screening Summary  
+The screening indicates that further clinical assessment is recommended. The probability of a positive screening result is 61%.
 
-**2. Key Contributing Indicators**  
-- Age  
-- HighChol  
-- BMI  
+2. Key Contributing Indicators  
+High blood pressure, general health status, high cholesterol.
 
-**3. Risk Segment Context**  
-The patient is grouped with a moderate‑risk cluster of older adults who have high blood pressure and high cholesterol but report good physical and mental health and few mobility problems.
+3. Risk Segment Context  
+The patient falls into a moderate risk segment. The cluster profile describes older individuals who have high blood pressure and high cholesterol but still report good physical and mental health and few mobility problems.
 
-**4. Suggested Follow‑up Considerations**  
-Further clinical assessment recommended.
+4. Suggested Follow-up Considerations  
+The patient should consider further clinical assessment as recommended by the screening.
