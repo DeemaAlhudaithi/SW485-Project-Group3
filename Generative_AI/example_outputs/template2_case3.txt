@@ -1,0 +1,13 @@
+1. Executive Summary  
+The patient is scheduled for a routine follow‑up. The model estimates a 24% probability of a positive screening result. The patient falls within a low‑risk segment that represents 35.8% of all patients.
+
+2. Expected Risk Level  
+The patient’s individual risk is low, with a 24% chance of a positive result. The diabetes rate of 20.3% applies to the entire low‑risk group, not to the patient.
+
+3. Key Drivers  
+Key indicators driving the probability are high blood pressure, general health status, and high cholesterol. The cluster profile describes younger patients who generally have normal blood pressure and cholesterol, good overall health, are physically active, and have higher income.
+
+4. Suggested Next Steps  
+- The patient should continue routine monitoring as scheduled.  
+- The patient should maintain healthy lifestyle habits.  
+- The patient should discuss any new symptoms or concerns with a healthcare professional.

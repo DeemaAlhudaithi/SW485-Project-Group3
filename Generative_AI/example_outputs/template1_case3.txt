@@ -1,15 +1,11 @@
-**1. Screening Summary**  
-- The supervised model indicates a **Routine follow‑up** recommendation.  
-- The model’s probability for a positive screening outcome is **24 %**.  
+1. Screening Summary
+- The patient has a routine follow-up screening result with a 24% probability of a positive outcome.
 
-**2. Key Contributing Indicators**  
-- PhysActivity  
-- GenHlth  
-- Age  
+2. Key Contributing Indicators
+- High blood pressure, general health concerns, and high cholesterol.
 
-**3. Risk Segment Context**  
-- The patient falls into a **low‑risk** segment.  
-- Cluster characteristics: younger age, predominantly normal blood pressure and cholesterol, good general health, regular physical activity, and higher income.  
+3. Risk Segment Context
+- The patient falls into a low-risk segment. The cluster profile describes younger individuals who generally have normal blood pressure and cholesterol, good overall health, are physically active, and have higher income.
 
-**4. Suggested Follow‑up Considerations**  
-- **Continue routine follow‑up** as advised by the screening result.
+4. Suggested Follow-up Considerations
+- The patient should have routine follow-up.
